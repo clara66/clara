@@ -6,7 +6,8 @@ public class Test {
 		int a=10;
 		int b=5;
 		int d=6;
-		System.out.println(a+b+d);
+		int z=8;
+		System.out.println(a+b+d+z);
 
 	}
 
